@@ -11,7 +11,7 @@ This is the repository of Dataset for "Towards Multi-Layered 3D Garments Animati
 **Acknowedgement**: This study is supported under the RIE2020 Industry Alignment Fund Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s). It is also supported by Singapore MOE AcRF Tier 2 (MOE-T2EP20221-0011) and Shanghai AI Laboratory. 
 
 ## Access of Dataset
-Please download the dataset [here]().
+Please download the dataset [here](https://openxlab.org.cn/datasets/D-LAYERS/D-LAYERS).
 
 ## Demo
 1. Download the data samples from [here](https://drive.google.com/file/d/1X7cwuyy_6HPh05cq0v8U5i43012UasC7/view?usp=sharing) and unzip the file into this repo. You should see a directory named `data` with `demo` and `smpl` inside.
