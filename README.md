@@ -14,7 +14,7 @@ This is the repository of Dataset for "Towards Multi-Layered 3D Garments Animati
 Please download the dataset [here](https://openxlab.org.cn/datasets/D-LAYERS/D-LAYERS).
 
 ## Demo
-1. Download the data samples from [here](https://drive.google.com/file/d/1X7cwuyy_6HPh05cq0v8U5i43012UasC7/view?usp=sharing) and unzip the file into this repo. You should see a directory named `data` with `demo` and `smpl` inside.
+1. Download the data samples from [here](https://drive.google.com/file/d/1X7cwuyy_6HPh05cq0v8U5i43012UasC7/view?usp=sharing) and unzip the file into this repo. You should see a directory named `data` with `demo` and `smpl` inside. Besides, 50 sequences of data are available [here](https://drive.google.com/file/d/1LEBgd47slzfI-T4SIPgq8VDgj7Z49yJn/view?usp=sharing).
 2. Download SMPL models in this [page](https://smpl.is.tue.mpg.de/). Name the file as `model_f.pkl` and `model_m.pkl`, then save into `data/smpl`.
 3. To view the examples in `demo.ipynb`, please create the following environment.
 ```
